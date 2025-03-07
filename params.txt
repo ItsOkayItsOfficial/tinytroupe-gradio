@@ -1,0 +1,10 @@
+Params
+Factory Description
+One of the largest super-market chains in the United States, with over 2,500 stores and 250,000 employees that is facing increasing competition from it's larger competitor Kroger and direct-to-consumer retailers like Wal-Mart and Amazon. 
+Customer Description
+An average American grocery store shopper, neither wealthy nor poor, with middle-class sensibilities and a tight budget.
+Customer Thought
+I am talking to a merchandising specialist at a large super-market chain about their new "own brand" product line called 'Overjoyed', which is described as "Our selection of delightful items makes it easier than ever to feel Overjoyed."
+Question to Customer
+What would you think about a product that is described as: Pistachio flavored; Vanilla flavored; Caramel; Raspberry; Chocolaty hazelnut; Lemon. Per 2 Pieces: 100 calories; 1 g sat fat (5% DV); 10 mg sodium (0% DV); 12 g total sugars. 6 delightful flavors. Luscious fillings. Make every day sparkle. We believe in bringing more joy to every day. To make every occasion more special and to share the sparkle of giving, getting, and connecting. Our broad selection of delightful items makes it easier than ever to feel overjoyed. Feel the joy of making it a tea party. 
+Is this a product you would like to buy or recommend to loved-ones and co-workers to buy?
