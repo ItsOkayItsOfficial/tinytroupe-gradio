@@ -1,10 +1,43 @@
 Params
 Factory Description
-One of the largest super-market chains in the United States, with over 2,500 stores and 250,000 employees that is facing increasing competition from it's larger competitor Kroger and direct-to-consumer retailers like Wal-Mart and Amazon. 
+Albertsons is one of the largest super-market chains in the United States, with over 2,500 stores and 250,000 employees that is facing increasing competition from it's larger competitor Kroger and direct-to-consumer retailers like Wal-Mart and Amazon. 
+
 Customer Description
-An average American grocery store shopper, neither wealthy nor poor, with middle-class sensibilities and a tight budget.
+An average American grocery store shopper, neither wealthy or poor, with middle-class sensibilities and a tight budget.
+
+American with a broad and very diverse range of personalities, interests, backgrounds and socioeconomic status. 
+
+Focus in particular on these dimensions:
+- Relationship Status: people who like to be alone to those who prefer having a partner.
+- Financial Situation: from poor to rich.
+- Luxury Preferences: from simple tastes to sohpisticated tastes.
+- Security Concerns: from very cautious to very adventurous.
+- Living Standard: from basic to luxury.
+- Planning Behaviors: from who prefer to plan every detail themselves to those who prefer to delegate the planning.
+- Social Confirmation: from those who prefer to do their own thing to those who prefer to follow the crowd.
+
+Customer Expectations
+They are:
+ - Economically middle-class
+ - Very intelligent and ambitious
+ - Has a lot of connections
+ - Is in their 40s or 50s
+
+Tastes:
+  - Likes to travel to other countries
+  - Either read books, collect stamps or play pickleball
+  - Has very simple taste in foods and living style
+  - Dislikes taxes and regulation
+
+Other notable traits:
+  - Has some stress issues, and might be a bit of a workaholic
+  - Deep knowledge of marketing, advertising and ecommerce technology
+  - Is a bit of a busy-body
+
 Customer Thought
-I am talking to a merchandising specialist at a large super-market chain about their new "own brand" product line called 'Overjoyed', which is described as "Our selection of delightful items makes it easier than ever to feel Overjoyed."
+I am in line at the Albertsons super-market talking to a merchandising specialist who works for the Albertsons company about the companys new "own brand" product line called 'Overjoyed'. The product line is described as "Our selection of delightful items makes it easier than ever to feel Overjoyed."
+
 Question to Customer
 What would you think about a product that is described as: Pistachio flavored; Vanilla flavored; Caramel; Raspberry; Chocolaty hazelnut; Lemon. Per 2 Pieces: 100 calories; 1 g sat fat (5% DV); 10 mg sodium (0% DV); 12 g total sugars. 6 delightful flavors. Luscious fillings. Make every day sparkle. We believe in bringing more joy to every day. To make every occasion more special and to share the sparkle of giving, getting, and connecting. Our broad selection of delightful items makes it easier than ever to feel overjoyed. Feel the joy of making it a tea party. 
+
 Is this a product you would like to buy or recommend to loved-ones and co-workers to buy?
